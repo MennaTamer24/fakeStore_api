@@ -13,7 +13,6 @@ class Login extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // قيم ثابتة مبدئياً
     emailController.text = "johnd";
     passwordController.text = "m38rmF\$";
 
